@@ -1,5 +1,4 @@
 let num1;
-let palabra;
 
 
 num1 = Number(prompt("Ingrese un numero:"));
@@ -13,6 +12,3 @@ if (num1 > 1000) {
 }else if(num1 === 100){
     alert("El numero ingresado es igual a 100")
 }
-
-
-
